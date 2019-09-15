@@ -1,2 +1,2 @@
 # Snake
-# Play snake in cmd (by C).
+Play snake in cmd (by C).
